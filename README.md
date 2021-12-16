@@ -1,4 +1,9 @@
 # The World-Wide Waste Web.
+
+
+[![DOI](https://zenodo.org/badge/352149720.svg)](https://zenodo.org/badge/latestdoi/352149720)
+
+
 ## Fractional Congestion Dynamics. The world-wide waste web.
 Here is the Matlab code for reproducing the fractional congestion SI model. It is composed of a Matlab script to run the fractional congestion SI model and an auxiliary .m function that performs the fractional Caputo's derivative. The code deposited here is cardinal for reproducing results of The world-wide web waste manuscript.
 ### Export and Import networks.
